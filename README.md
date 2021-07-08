@@ -2,7 +2,7 @@
 Scroll to an element horizontally
 
 # use
-<br>
+
 `      sideScrollToElm(`<br>
 `      touchmove,`<br>
 `        document.querySelector('.container'),`<br>
